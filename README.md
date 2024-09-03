@@ -1,7 +1,7 @@
 # SonicAdventure2EmblemCounter
 
 ## Supports
-Sonic Adventure 2 (Steam) - x86 PCs currently atm
+Sonic Adventure 2 (Steam) - x64 PCs currently atm
 
 Xbox/Gamecube/PS3 not supported
 
